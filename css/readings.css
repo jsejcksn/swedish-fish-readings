@@ -9,9 +9,9 @@ p {
 
 /* -- Classes -- */
 
-.uppercase {
-  text-transform: uppercase;
-  }
+.curriculum {
+	margin: 3em auto;
+	}
 
 
 /* -- IDs -- */
