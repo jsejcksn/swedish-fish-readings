@@ -520,11 +520,6 @@ nav {
 	padding: 1em;
 	}
 
-nav ol {
-	list-style: none;
-	margin-left: 1em;
-	}
-
 ol {
 	list-style: decimal outside;
 	margin-left: 2em;
@@ -556,6 +551,11 @@ ul {
 
 .hidden {
 	display: none;
+	}
+
+.list-no-style {
+	list-style: none;
+	margin-left: 1em;
 	}
 
 
